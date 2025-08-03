@@ -8,7 +8,7 @@
   <a href="https://x.com/thezubairusman"><img src="https://img.shields.io/twitter/follow/thezubairusman?style=social" /></a>
   <a href="https://discord.gg/pPJaxbSs"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?logo=discord&logoColor=white" /></a>
   <a href="https://youtube.com/@thezubairusman"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white" /></a>
-  <a href="https://thezubairusman.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-Shop_My_Tools-ff69b4?logo=gumroad" /></a>
+  <a href="https://zus3c.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-Shop_My_Tools-ff69b4?logo=gumroad" /></a>
   <a href="mailto:zus3cu@email.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail" /></a>
   <a href="https://whatsapp.com/channel/0029VahEpDoGZNCjNV0vXF1B"><img src="https://img.shields.io/badge/WhatsApp-Join_My_Channel-25D366?logo=whatsapp&logoColor=white" />
 </a>
