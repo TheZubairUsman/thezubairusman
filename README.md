@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/thezubairusman"><img src="https://img.shields.io/github/followers/thezubairusman?label=Follow&style=social" /></a>
-  <a href="https://linkedin.com/in/thezubairusman"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/TheZubairUsman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <a href="https://medium.com/@thezubairusman"><img src="https://img.shields.io/badge/Medium-Read_My_Articles-black?logo=medium" /></a>
   <a href="https://x.com/thezubairusman"><img src="https://img.shields.io/twitter/follow/thezubairusman?style=social" /></a>
   <a href="https://discord.gg/pPJaxbSs"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?logo=discord&logoColor=white" /></a>
