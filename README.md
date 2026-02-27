@@ -26,7 +26,7 @@ I’m **Zubair Usman** — a digital hybrid at the intersection of **offensive c
 - 🧪 Open-source contributor and security researcher  
 - 🎯 Always learning, always hacking
 
-> ⚡ **Looking for collaborations, partnerships, or hiring? → [Let’s connect](mailto:thezubairusman@gmail.com)**
+> ⚡ **Looking for collaborations, partnerships, or hiring? → [Let’s connect](mailto:zus3cu@gmail.com)**
 
 ---
 
@@ -69,7 +69,7 @@ I provide professional cybersecurity and development services tailored to startu
 - **Prompt Engineering & AI Workflows**: Optimized prompts, custom GPT agents, and automation logic for productivity and security tasks.
 - **Technical Content Creation**: SEO-optimized articles, tutorials, and social media posts on cybersecurity and AI topics.
 
-> Interested? [DM me on LinkedIn](https://www.linkedin.com/in/TheZubairUsman/) or [Email](mailto:thezubairusman@gmail.com) for details and rates.
+> Interested? [DM me on LinkedIn](https://www.linkedin.com/in/TheZubairUsman/) or [Email](mailto:zus3cu@gmail.com) for details and rates.
 
 ---
 
@@ -121,7 +121,7 @@ I provide professional cybersecurity and development services tailored to startu
 | 🔗 LinkedIn | [linkedin.com/in/TheZubairUsman](https://www.linkedin.com/in/TheZubairUsman/) |
 | 📂 Medium | [medium.com/@thezubairusman](https://medium.com/@thezubairusman) |
 | 🎥 YouTube | [youtube.com/@thezubairusman](https://youtube.com/@thezubairusman) |
-| ✉️ Email | [thezubairusman@gmail.com](mailto:zus3cu@gmail.com) |
+| ✉️ Email | [zus3cu@gmail.com](mailto:zus3cu@gmail.com) |
 
 > 💬 DM me. I’m open for projects, ghost-hacking, collabs, and coffee ☕.
 
