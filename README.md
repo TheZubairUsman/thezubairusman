@@ -5,21 +5,20 @@
   <a href="https://github.com/thezubairusman"><img src="https://img.shields.io/github/followers/thezubairusman?label=Follow&style=social" /></a>
   <a href="https://www.linkedin.com/in/TheZubairUsman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <a href="https://medium.com/@thezubairusman"><img src="https://img.shields.io/badge/Medium-Read_My_Articles-black?logo=medium" /></a>
-  <a href="https://x.com/thezubairusman"><img src="https://img.shields.io/twitter/follow/thezubairusman?style=social" /></a>
+  <a href="https://x.com/TheZubairUsman"><img src="https://img.shields.io/twitter/follow/TheZubairUsman?style=social" /></a>
   <a href="https://discord.gg/pPJaxbSs"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?logo=discord&logoColor=white" /></a>
   <a href="https://youtube.com/@thezubairusman"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white" /></a>
   <a href="https://zus3c.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-Shop_My_Tools-ff69b4?logo=gumroad" /></a>
-  <a href="mailto:zus3cu@email.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail" /></a>
+  <a href="mailto:thezubairusman@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail" /></a>
   <a href="https://whatsapp.com/channel/0029VahEpDoGZNCjNV0vXF1B"><img src="https://img.shields.io/badge/WhatsApp-Join_My_Channel-25D366?logo=whatsapp&logoColor=white" />
 </a>
-
 </p>
 
 ---
 
 ## 🧠 Who Am I?
 
-I’m **Zubair Usman"" — a digital hybrid at the intersection of **offensive cybersecurity, automation development**, and **AI integration**.
+I’m **Zubair Usman** — a digital hybrid at the intersection of **offensive cybersecurity, automation development**, and **AI integration**.
 
 - 🔐 Passionate **Cybersecurity Auditor** with real-world bug bounty experience  
 - 🐍 **Python Developer** building automation tools and internal security scripts  
@@ -27,7 +26,7 @@ I’m **Zubair Usman"" — a digital hybrid at the intersection of **offensive c
 - 🧪 Open-source contributor and security researcher  
 - 🎯 Always learning, always hacking
 
-> ⚡ **Looking for collaborations, partnerships, or hiring? → [Let’s connect](mailto:zus3cu@gmail.com)**
+> ⚡ **Looking for collaborations, partnerships, or hiring? → [Let’s connect](mailto:thezubairusman@gmail.com)**
 
 ---
 
@@ -57,6 +56,20 @@ I’m **Zubair Usman"" — a digital hybrid at the intersection of **offensive c
 | ✍️ Reporting | CVSS-based, professional write-ups, client-grade |
 
 > 📂 Want my internal templates or checklists? 👉 [Complete CHFIv9 – Computer Hacking Forensic Investigator](https://zus3c.gumroad.com/l/ForensicsToolkit)
+
+---
+
+## 💼 Services Offered
+
+I provide professional cybersecurity and development services tailored to startups, businesses, and individuals. DM me on LinkedIn or email for custom quotes and consultations. 🔒
+
+- **Website Security Audits**: Quick scans for vulnerabilities like XSS, SQL Injection, and more. Starting at $10. Includes detailed reports and fix recommendations.
+- **Bug Bounty Consulting**: Guidance on hunting, reporting, and participating in programs like HackerOne and Bugcrowd.
+- **Custom Python Tools**: Development of automation scripts, OSINT tools, and AI-integrated solutions. From simple bots to full SaaS prototypes.
+- **Prompt Engineering & AI Workflows**: Optimized prompts, custom GPT agents, and automation logic for productivity and security tasks.
+- **Technical Content Creation**: SEO-optimized articles, tutorials, and social media posts on cybersecurity and AI topics.
+
+> Interested? [DM me on LinkedIn](https://www.linkedin.com/in/TheZubairUsman/) or [Email](mailto:thezubairusman@gmail.com) for details and rates.
 
 ---
 
@@ -104,9 +117,9 @@ I’m **Zubair Usman"" — a digital hybrid at the intersection of **offensive c
 |---------|------|
 | 🌍 Portfolio | [thezubairusman.com](https://thezubairusman.github.io/thezubairusman/main.html) |
 | 🐙 GitHub | [github.com/thezubairusman](https://github.com/thezubairusman) |
-| 🐦 Twitter/X | [x.com/thezubairusman](https://x.com/thezubairusman) |
-| 🔗 LinkedIn | [linkedin.com/in/thezubairusman](https://linkedin.com/in/thezubairusman) |
-| 📂 Medium | [linkedin.com/in/thezubairusman](https://medium.com/@thezubairusman) |
+| 🐦 Twitter/X | [x.com/TheZubairUsman](https://x.com/TheZubairUsman) |
+| 🔗 LinkedIn | [linkedin.com/in/TheZubairUsman](https://www.linkedin.com/in/TheZubairUsman/) |
+| 📂 Medium | [medium.com/@thezubairusman](https://medium.com/@thezubairusman) |
 | 🎥 YouTube | [youtube.com/@thezubairusman](https://youtube.com/@thezubairusman) |
 | ✉️ Email | [thezubairusman@gmail.com](mailto:zus3cu@gmail.com) |
 
