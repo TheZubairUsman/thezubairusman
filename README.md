@@ -18,30 +18,51 @@
 
 ## 🧠 Who Am I?
 
-I’m **Zubair Usman** — a digital hybrid at the intersection of **offensive cybersecurity, automation development**, and **AI integration**.
+# 👋 Hi, I'm Zubair Usman
 
-- 🔐 Passionate **Cybersecurity Auditor** with real-world bug bounty experience  
-- 🐍 **Python Developer** building automation tools and internal security scripts  
-- 🤖 **AI & Prompt Engineer** experimenting with intelligent agents and automation logic  
-- 🧪 Open-source contributor and security researcher  
-- 🎯 Always learning, always hacking
+## 🔬 AI Security Researcher | Industrial Anomaly Detection | Penetration Tester
+
+I'm a cybersecurity professional and AI researcher currently pursuing my Master's in **Industrial Anomaly Detection** in China. I combine cybersecurity expertise with machine learning to secure manufacturing systems and Industrial IoT environments.
 
 > ⚡ **Looking for collaborations, partnerships, or hiring? → [Let’s connect](mailto:zus3cu@gmail.com)**
 
 ---
 
-## 🎯 What I Do Best
+## 🛡️ What I Do
 
-- ✅ **Ethical Hacking & Red Team Audits**  
-  → Recon, IDOR, XSS, SSRF, and custom logic exploitation  
-- ✅ **Bug Bounty Operations**  
-  → Private & public programs via HackerOne, Bugcrowd  
-- ✅ **Python & Automation Tools**  
-  → OSINT, browser automation, API scraping, data parsing  
-- ✅ **AI/Prompt Engineering**  
-  → Custom GPT workflows, automation logic, productivity agents
+### 🔐 Cybersecurity & Penetration Testing
+- Web Application Security Audits (OWASP Top 10)
+- API Security Testing
+- Bug Bounty Hunting (HackerOne, Bugcrowd)
+- Security Automation (Nuclei, Burp Suite, custom scripts)
+- Vulnerability Assessment & Reporting
+
+### 🤖 AI & Machine Learning
+- **Industrial Anomaly Detection** — My current Master's research
+- Sensor data analysis & predictive maintenance
+- Time-series analysis (ARIMA, LSTM)
+- AI-powered security monitoring
+- OpenAI/LangChain integration
+
+### 🐍 Python Development & Automation
+- Custom security tools & automation scripts
+- Browser automation (Selenium)
+- Web scraping & data extraction
+- OSINT reconnaissance tools
+- CLI & GUI applications (Tkinter)
 
 > 🔧 Clone, fork, or contribute to my [**Smart-Cursor-System-2.0**](https://github.com/thezubairusman/Smart-Cursor-System-2.0) , [**BugDrillX**](https://github.com/thezubairusman/BugDrillX) or [**Offsec-toolkit**](https://github.com/thezubairusman/offsec-toolkit)
+
+---
+
+## 🏆 Certifications
+
+| Certification | Provider | Year |
+|--------------|----------|------|
+| Certified Ethical Hacker (CEH) | EC-Council | 2023 |
+| Computer Hacking Forensic Investigator (CHFIv9) | EC-Council | — |
+| Certified Network Security Specialist (CNSS) | ICSI | 2020 |
+| Pentest Cyber Specialist | NITSEP | 2025 |
 
 ---
 
@@ -56,6 +77,30 @@ I’m **Zubair Usman** — a digital hybrid at the intersection of **offensive c
 | ✍️ Reporting | CVSS-based, professional write-ups, client-grade |
 
 > 📂 Want my internal templates or checklists? 👉 [Complete CHFIv9 – Computer Hacking Forensic Investigator](https://zus3c.gumroad.com/l/ForensicsToolkit)
+
+---
+
+## 🌟 Featured Projects
+
+### [🏭 Industrial Anomaly Detection System](https://github.com/zubairusman/industrial-anomaly-detection)
+> My Master's research project, ML-based anomaly detection for manufacturing sensor data.
+
+- 🔧 **Tech:** Python, Pandas, Scikit-learn, LSTM, Time-series analysis
+- 📊 **Features:** Real-time sensor processing, anomaly alerts, visual dashboard
+- 🏭 **Use Case:** Predictive maintenance for smart factories
+
+### [🛡️ Security Toolkit](https://github.com/zubairusman/security-toolkit)
+> Open-source security tools used by 100+ researchers.
+
+- 🔧 **Tech:** Python, Nuclei, Nmap, APIs
+- 🚀 **Tools:** Recon bot, vulnerability scanner, report generator
+- ⭐ **100+ users in the security community**
+
+### [📱 WhatsApp Automation Tool](https://github.com/zubairusman/whatsapp-automation)
+> Business automation tool for bulk messaging.
+
+- 🔧 **Tech:** Python, Selenium, Tkinter, Pandas
+- ⚡ **Performance:** 500+ messages/day, 15+ hours saved weekly
 
 ---
 
@@ -124,6 +169,15 @@ I provide professional cybersecurity and development services tailored to startu
 | ✉️ Email | [zus3cu@gmail.com](mailto:zus3cu@gmail.com) |
 
 > 💬 DM me. I’m open for projects, ghost-hacking, collabs, and coffee ☕.
+
+---
+
+## ⚡ Fun Facts
+
+- 🌏 Based in China, originally from Pakistan
+- 🎯 Goal: Bridge cybersecurity and AI for Industry 4.0
+- 🐛 Active bug bounty hunter
+- 🛠️ Love building tools that save time
 
 ---
 
