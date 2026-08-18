@@ -116,8 +116,3 @@ I take on fixed-scope, professional engagements for startups and businesses:
 <sub>Based in Ürümqi, China (UTC+8) · Originally from Pakistan · Goal: bridge cybersecurity and AI for Industry 4.0</sub>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheZubairUsman&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZubairUsman&layout=compact&theme=tokyonight" height="165" />
-</p>
