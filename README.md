@@ -1,204 +1,123 @@
-<h1 align="center">🚀 Zubair Usman – Securing Systems, Automating Intelligence</h1>
-<h3 align="center">Cybersecurity Auditor | Bug Bounty Hunter | Python & Automation Developer | AI & Prompt Engineer</h3>
+<h1 align="center">Zubair Usman</h1>
+<h3 align="center">AI Security Researcher · Penetration Tester · Python Automation Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/thezubairusman"><img src="https://img.shields.io/github/followers/thezubairusman?label=Follow&style=social" /></a>
-  <a href="https://www.linkedin.com/in/TheZubairUsman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://medium.com/@thezubairusman"><img src="https://img.shields.io/badge/Medium-Read_My_Articles-black?logo=medium" /></a>
-  <a href="https://x.com/TheZubairUsman"><img src="https://img.shields.io/twitter/follow/TheZubairUsman?style=social" /></a>
-  <a href="https://discord.gg/pPJaxbSs"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?logo=discord&logoColor=white" /></a>
-  <a href="https://youtube.com/@thezubairusman"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white" /></a>
-  <a href="https://zus3c.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-Shop_My_Tools-ff69b4?logo=gumroad" /></a>
-  <a href="mailto:thezubairusman@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail" /></a>
-  <a href="https://whatsapp.com/channel/0029VahEpDoGZNCjNV0vXF1B"><img src="https://img.shields.io/badge/WhatsApp-Join_My_Channel-25D366?logo=whatsapp&logoColor=white" />
-</a>
+  Helping companies find security gaps before attackers do — and building the AI &amp; automation that keeps them safe.
+</p>
+
+<p align="center">
+  <a href="https://zus3c.info"><img src="https://img.shields.io/badge/Portfolio-zus3c.info-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thezubairusman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@thezubairusman"><img src="https://img.shields.io/badge/Medium-Read-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+  <a href="mailto:zus3cu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/github/followers/TheZubairUsman?label=Follow&style=flat-square" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## About Me
 
-# 👋 Hi, I'm Zubair Usman
+I'm a **China-based AI Security Researcher and Penetration Tester**, currently pursuing an **MSc at Xinjiang University (Ürümqi)**, where my research focuses on **Industrial Anomaly Detection**. That places my work close to the manufacturing and IIoT ecosystem — combining offensive security with practical industrial AI research and production engineering.
 
-## 🔬 AI Security Researcher | Industrial Anomaly Detection | Penetration Tester
+I work across three areas: **application & API security testing**, **DevSecOps automation**, and **industrial AI / LLM safety**.
 
-I'm a cybersecurity professional and AI researcher currently pursuing my Master's in **Industrial Anomaly Detection** in China. I combine cybersecurity expertise with machine learning to secure manufacturing systems and Industrial IoT environments.
-
-> ⚡ **Looking for collaborations, partnerships, or hiring? → [Let’s connect](mailto:zus3cu@gmail.com)**
+> Responsible for a plant, an IIoT platform, or an early-stage product where security, uptime, and AI reliability affect the business? **Let's talk → [zus3cu@gmail.com](mailto:zus3cu@gmail.com)**
 
 ---
 
-## 🛡️ What I Do
+## What I Do
 
-### 🔐 Cybersecurity & Penetration Testing
-- Web Application Security Audits (OWASP Top 10)
-- API Security Testing
-- Bug Bounty Hunting (HackerOne, Bugcrowd)
-- Security Automation (Nuclei, Burp Suite, custom scripts)
-- Vulnerability Assessment & Reporting
+### AI-Powered Security Audits
+Web apps, APIs, authentication flows, and cloud/connected business systems assessed with an attacker-informed methodology. Reproducible, **CVSS-scored reports** with clear remediation guidance.
+- OWASP Top 10 · API security · OAuth 2.0 flow analysis · TLS review
+- Tooling: Burp Suite, OWASP ZAP, Nuclei, Nmap, SQLMap, Amass, ffuf
 
-### 🤖 AI & Machine Learning
-- **Industrial Anomaly Detection** — My current Master's research
-- Sensor data analysis & predictive maintenance
-- Time-series analysis (ARIMA, LSTM)
-- AI-powered security monitoring
-- OpenAI/LangChain integration
+### DevSecOps & Automation
+Security that runs *inside* production, not as a separate audit.
+- Infrastructure & VPN automation, ERP hardening, CI/CD, Docker, nginx, cloud
+- Python tooling: recon/OSINT, scanning, reporting, browser automation, scraping
 
-### 🐍 Python Development & Automation
-- Custom security tools & automation scripts
-- Browser automation (Selenium)
-- Web scraping & data extraction
-- OSINT reconnaissance tools
-- CLI & GUI applications (Tkinter)
-
-> 🔧 Clone, fork, or contribute to my [**Smart-Cursor-System-2.0**](https://github.com/thezubairusman/Smart-Cursor-System-2.0) , [**BugDrillX**](https://github.com/thezubairusman/BugDrillX) or [**Offsec-toolkit**](https://github.com/thezubairusman/offsec-toolkit)
+### Industrial AI / LLM Safety
+- Industrial anomaly detection & explainability (PyTorch, anomalib)
+- LLM/RAG systems, prompt-injection defense, AI security evaluation
 
 ---
 
-## 🏆 Certifications
+## Selected Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **VPN Production Platform** — [vpn.zus3c.info](https://vpn.zus3c.info) | Live OpenVPN/WireGuard automation + customer portal (create / renew / revoke, diagnostics). ~12.8k lines. | Python, Flask, nginx, Alibaba Cloud |
+| **Enterprise ERP** *(delivered client project)* | Sales/purchase workflows, RBAC, automated tests, production containers. | Next.js, NestJS, Prisma, PostgreSQL, Redis, BullMQ |
+| **MalwareGuard-AI** | Static malware classifier (PE/ELF headers, entropy) with FastAPI + SHAP explainability. | Python, scikit-learn, FastAPI |
+
+**Security research highlights**
+- Critical **SQL Injection** responsibly disclosed on a production e-commerce platform (CVSS-scored report, 2024)
+- Critical **OAuth 2.0 nonce vulnerability** responsibly disclosed to Windsurf (CVSS 7.1, 2025)
+- **ISO 27001 gap analysis** and OWASP engagements with dated, reproducible reporting
+
+---
+
+## Featured Repositories
+
+- **[offsec-toolkit](https://github.com/TheZubairUsman/offsec-toolkit)** — automated installer/config for 300+ offensive-security tools across 20+ categories
+- **[MalwareGuard-AI](https://github.com/TheZubairUsman/MalwareGuard-AI)** — AI-powered static malware detection (Random Forest/XGBoost + FastAPI + SHAP)
+- **[BugDrillX](https://github.com/TheZubairUsman/BugDrillX)** — bug-bounty learning platform: recon → web/mobile testing roadmap
+- **[ssrf-cheatsheet-2025](https://github.com/TheZubairUsman/ssrf-cheatsheet-2025)** — modern SSRF attack-vector reference
+- **[Smart-Cursor-System-2.0](https://github.com/TheZubairUsman/Smart-Cursor-System-2.0)** — accessibility tool: control the cursor with facial gestures (computer vision)
+
+---
+
+## Certifications
 
 | Certification | Provider | Year |
-|--------------|----------|------|
-| Certified Ethical Hacker (CEH) | EC-Council | 2023 |
-| Computer Hacking Forensic Investigator (CHFIv9) | EC-Council | — |
-| Certified Network Security Specialist (CNSS) | ICSI | 2020 |
-| Pentest Cyber Specialist | NITSEP | 2025 |
+|---|---|---|
+| Certified Network Security Specialist (CNSS) | ICSI (UK) | 2020 |
+| Lean Six Sigma — White Belt | BGMC (England) | 2022 |
+| Kali Linux for Advanced Pen Testing | LinkedIn Learning | 2023 |
+| Agile Testing | LinkedIn Learning | 2023 |
 
 ---
 
-## 🛡️ Security Highlights
+## Writing
 
-| 🎯 Scope | ✅ Achievement |
-|---------|----------------|
-| 🔍 Reconnaissance | Built custom Nuclei + Subfinder integrations |
-| 🐞 IDOR Exploits | Multiple validated reports (HackerOne / Private) |
-| ⚙️ Tool Dev | Created CLI + GUI tools for hackers |
-| 🧪 Methodology | Recon > Mapping > Exploitation > Reporting |
-| ✍️ Reporting | CVSS-based, professional write-ups, client-grade |
+I write methodology and analysis, not blurbs.
 
-> 📂 Want my internal templates or checklists? 👉 [Complete CHFIv9 – Computer Hacking Forensic Investigator](https://zus3c.gumroad.com/l/ForensicsToolkit)
+- [Bug Bounty Methodology (Volume 2)](https://medium.com/@thezubairusman/bug-bounty-methodology-volume-2-c6e89ae6875a)
+- [Bug Hunting with GPT: Tips, Tricks, and Prompts](https://medium.com/@thezubairusman/bug-hunting-with-gpt-tips-tricks-and-prompts-3841ad93af17)
+- [Why 95% of Micro-SaaS Startups Fail — and How Solo Founders Can Win](https://medium.com/@thezubairusman/why-95-of-micro-saas-startups-fail-and-how-solo-founders-can-win-in-2025-a971594a9134)
+
+→ [Full blog on Medium](https://medium.com/@thezubairusman)
 
 ---
 
-## 🌟 Featured Projects
+## Work With Me
 
-### [🏭 Industrial Anomaly Detection System](https://github.com/zubairusman/industrial-anomaly-detection)
-> My Master's research project, ML-based anomaly detection for manufacturing sensor data.
+I take on fixed-scope, professional engagements for startups and businesses:
 
-- 🔧 **Tech:** Python, Pandas, Scikit-learn, LSTM, Time-series analysis
-- 📊 **Features:** Real-time sensor processing, anomaly alerts, visual dashboard
-- 🏭 **Use Case:** Predictive maintenance for smart factories
+- **Web App / API Security Audit** — attacker-informed testing + CVSS-scored report with remediation
+- **Python Automation & Tooling** — scraping, OSINT, security automation, internal tools
+- **AI / LLM Integration** — RAG systems, LLM safety review, anomaly detection
 
-### [🛡️ Security Toolkit](https://github.com/zubairusman/security-toolkit)
-> Open-source security tools used by 100+ researchers.
-
-- 🔧 **Tech:** Python, Nuclei, Nmap, APIs
-- 🚀 **Tools:** Recon bot, vulnerability scanner, report generator
-- ⭐ **100+ users in the security community**
-
-### [📱 WhatsApp Automation Tool](https://github.com/zubairusman/whatsapp-automation)
-> Business automation tool for bulk messaging.
-
-- 🔧 **Tech:** Python, Selenium, Tkinter, Pandas
-- ⚡ **Performance:** 500+ messages/day, 15+ hours saved weekly
+**Get a quote →** [zus3cu@gmail.com](mailto:zus3cu@gmail.com) · [Portfolio & services: zus3c.info](https://zus3c.info)
 
 ---
 
-## 💼 Services Offered
+## Connect
 
-I provide professional cybersecurity and development services tailored to startups, businesses, and individuals. DM me on LinkedIn or email for custom quotes and consultations. 🔒
+| | |
+|---|---|
+| Portfolio | [zus3c.info](https://zus3c.info) |
+| GitHub | [github.com/TheZubairUsman](https://github.com/TheZubairUsman) |
+| LinkedIn | [linkedin.com/in/thezubairusman](https://www.linkedin.com/in/thezubairusman/) |
+| Medium | [medium.com/@thezubairusman](https://medium.com/@thezubairusman) |
+| Email | [zus3cu@gmail.com](mailto:zus3cu@gmail.com) |
 
-- **Website Security Audits**: Quick scans for vulnerabilities like XSS, SQL Injection, and more. Starting at $10. Includes detailed reports and fix recommendations.
-- **Bug Bounty Consulting**: Guidance on hunting, reporting, and participating in programs like HackerOne and Bugcrowd.
-- **Custom Python Tools**: Development of automation scripts, OSINT tools, and AI-integrated solutions. From simple bots to full SaaS prototypes.
-- **Prompt Engineering & AI Workflows**: Optimized prompts, custom GPT agents, and automation logic for productivity and security tasks.
-- **Technical Content Creation**: SEO-optimized articles, tutorials, and social media posts on cybersecurity and AI topics.
-
-> Interested? [DM me on LinkedIn](https://www.linkedin.com/in/TheZubairUsman/) or [Email](mailto:zus3cu@gmail.com) for details and rates.
-
----
-
-## 🧠 Python + AI Automation Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🧠 AI Task Engine | GPT-powered assistant for automating commands & browsing | `Python`, `LangChain`, `OpenAI` |
-| 🤖 AutoSender | Bulk WhatsApp Web automation with CSV + formatting | `Selenium`, `Tkinter`, `CSV` |
-| 🔍 ReconBot | Smart passive recon suite for domain intelligence | `Shodan`, `Sublist3r`, `Requests` |
-
-> ✨ Star, clone, or contribute to your favorite on [my GitHub Repos](https://github.com/thezubairusman)
+<sub>Based in Ürümqi, China (UTC+8) · Originally from Pakistan · Goal: bridge cybersecurity and AI for Industry 4.0</sub>
 
 ---
-
-## ✍️ Articles & Technical Writeups
-
-🧠 I write breakdowns, not blurbs. No fluff. Just methodology, exploits, and insight.
-
-- 📚 [Why 95% of Micro-SaaS Startups Fail, And How Solo Founders Can Win in 2025](https://medium.com/@thezubairusman/why-95-of-micro-saas-startups-fail-and-how-solo-founders-can-win-in-2025-a971594a9134)
-- 🛠️ [Bug Bounty Methodology (Volume 2)](https://medium.com/@thezubairusman/bug-bounty-methodology-volume-2-c6e89ae6875a)
-- 🧪 [Bug Hunting with GPT: Tips, Tricks, and Prompts](https://medium.com/@thezubairusman/bug-hunting-with-gpt-tips-tricks-and-prompts-3841ad93af17)
-
-> 🔥 Dive into more → [View Full Blog](https://medium.com/@thezubairusman)
-
----
-
-## 🎁 Digital Tools & Prompt Packs
-
-> 🚀 Want to hack smarter, not harder?
-
-| Product | Type | Link |
-|--------|------|------|
-| ⚔️ Complete CHFIv9 | Computer Hacking Forensic Investigator | [Buy Now](https://zus3c.gumroad.com/l/ForensicsToolkit) |
-| 🛠️ Offsec-toolkit | Offensive Security Toolkit Installer | [Download](https://github.com/thezubairusman/offsec-toolkit) |
-| 🤖 Smart-Cursor-System-2.0 | Facial Tracking Cursor Control System | [Download](https://github.com/thezubairusman/Smart-Cursor-System-2.0) |
-
-> ✨ Use these tools. Modify them. Sell smarter. Build faster.
-
----
-
-## 🌐 Connect with Me
-
-| Platform | Link |
-|---------|------|
-| 🌍 Portfolio | [thezubairusman.com](https://thezubairusman.github.io/thezubairusman/main.html) |
-| 🐙 GitHub | [github.com/thezubairusman](https://github.com/thezubairusman) |
-| 🐦 Twitter/X | [x.com/TheZubairUsman](https://x.com/TheZubairUsman) |
-| 🔗 LinkedIn | [linkedin.com/in/TheZubairUsman](https://www.linkedin.com/in/TheZubairUsman/) |
-| 📂 Medium | [medium.com/@thezubairusman](https://medium.com/@thezubairusman) |
-| 🎥 YouTube | [youtube.com/@thezubairusman](https://youtube.com/@thezubairusman) |
-| ✉️ Email | [zus3cu@gmail.com](mailto:zus3cu@gmail.com) |
-
-> 💬 DM me. I’m open for projects, ghost-hacking, collabs, and coffee ☕.
-
----
-
-## ⚡ Fun Facts
-
-- 🌏 Based in China, originally from Pakistan
-- 🎯 Goal: Bridge cybersecurity and AI for Industry 4.0
-- 🐛 Active bug bounty hunter
-- 🛠️ Love building tools that save time
-
----
-
-## 📊 GitHub Analytics (Auto-updating)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thezubairusman&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thezubairusman&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezubairusman&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheZubairUsman&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZubairUsman&layout=compact&theme=tokyonight" height="165" />
 </p>
-
----
-
-## 🧠 Recommended Stack
-
-```yaml
-🛡️ Cybersecurity:
-  - Burp Suite, Nuclei, Nmap, SQLMap, Amass
-
-🐍 Python:
-  - Selenium, Tkinter, Pandas, BeautifulSoup, Requests
-
-⚙️ AI/Automation:
-  - OpenAI API, LangChain, PromptLayer, Whisper, Pinecone
