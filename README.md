@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a **China-based AI Security Researcher and Penetration Tester**, currently pursuing an **MSc at Xinjiang University (Ürümqi)**, where my research focuses on **Industrial Anomaly Detection**. That places my work close to the manufacturing and IIoT ecosystem — combining offensive security with practical industrial AI research and production engineering.
+I'm a **China-based AI Security Researcher and Penetration Tester**, currently pursuing an **MSc at Xinjiang University (Ürümqi)**, where my research focuses on **Industrial Anomaly Detection**. That places my work close to the manufacturing and IIoT ecosystem combining offensive security with practical industrial AI research and production engineering.
 
 I work across three areas: **application & API security testing**, **DevSecOps automation**, and **industrial AI / LLM safety**.
 
@@ -48,7 +48,7 @@ Security that runs *inside* production, not as a separate audit.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **VPN Production Platform** — [vpn.zus3c.info](https://vpn.zus3c.info) | Live OpenVPN/WireGuard automation + customer portal (create / renew / revoke, diagnostics). ~12.8k lines. | Python, Flask, nginx, Alibaba Cloud |
+| **VPN Production Platform** [vpn.zus3c.info](https://vpn.zus3c.info) | Live OpenVPN/WireGuard automation + customer portal (create / renew / revoke, diagnostics). ~12.8k lines. | Python, Flask, nginx, Alibaba Cloud |
 | **Enterprise ERP** *(delivered client project)* | Sales/purchase workflows, RBAC, automated tests, production containers. | Next.js, NestJS, Prisma, PostgreSQL, Redis, BullMQ |
 | **MalwareGuard-AI** | Static malware classifier (PE/ELF headers, entropy) with FastAPI + SHAP explainability. | Python, scikit-learn, FastAPI |
 
@@ -61,11 +61,11 @@ Security that runs *inside* production, not as a separate audit.
 
 ## Featured Repositories
 
-- **[offsec-toolkit](https://github.com/TheZubairUsman/offsec-toolkit)** — automated installer/config for 300+ offensive-security tools across 20+ categories
-- **[MalwareGuard-AI](https://github.com/TheZubairUsman/MalwareGuard-AI)** — AI-powered static malware detection (Random Forest/XGBoost + FastAPI + SHAP)
-- **[BugDrillX](https://github.com/TheZubairUsman/BugDrillX)** — bug-bounty learning platform: recon → web/mobile testing roadmap
-- **[ssrf-cheatsheet-2025](https://github.com/TheZubairUsman/ssrf-cheatsheet-2025)** — modern SSRF attack-vector reference
-- **[Smart-Cursor-System-2.0](https://github.com/TheZubairUsman/Smart-Cursor-System-2.0)** — accessibility tool: control the cursor with facial gestures (computer vision)
+- **[offsec-toolkit](https://github.com/TheZubairUsman/offsec-toolkit)** automated installer/config for 300+ offensive-security tools across 20+ categories
+- **[MalwareGuard-AI](https://github.com/TheZubairUsman/MalwareGuard-AI)** AI-powered static malware detection (Random Forest/XGBoost + FastAPI + SHAP)
+- **[BugDrillX](https://github.com/TheZubairUsman/BugDrillX)** bug-bounty learning platform: recon → web/mobile testing roadmap
+- **[ssrf-cheatsheet-2025](https://github.com/TheZubairUsman/ssrf-cheatsheet-2025)** modern SSRF attack-vector reference
+- **[Smart-Cursor-System-2.0](https://github.com/TheZubairUsman/Smart-Cursor-System-2.0)** accessibility tool: control the cursor with facial gestures (computer vision)
 
 ---
 
@@ -96,9 +96,9 @@ I write methodology and analysis, not blurbs.
 
 I take on fixed-scope, professional engagements for startups and businesses:
 
-- **Web App / API Security Audit** — attacker-informed testing + CVSS-scored report with remediation
-- **Python Automation & Tooling** — scraping, OSINT, security automation, internal tools
-- **AI / LLM Integration** — RAG systems, LLM safety review, anomaly detection
+- **Web App / API Security Audit** attacker-informed testing + CVSS-scored report with remediation
+- **Python Automation & Tooling** scraping, OSINT, security automation, internal tools
+- **AI / LLM Integration** RAG systems, LLM safety review, anomaly detection
 
 **Get a quote →** [zus3cu@gmail.com](mailto:zus3cu@gmail.com) · [Portfolio & services: zus3c.info](https://zus3c.info)
 
