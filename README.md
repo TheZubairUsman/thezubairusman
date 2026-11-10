@@ -6,14 +6,14 @@
 
 <a href="https://zus3cu.tech"><img src="https://img.shields.io/badge/PORTFOLIO-zus3cu.tech-00DDEB?style=flat-square&logo=googlechrome&logoColor=000000" alt="Portfolio: zus3cu.tech" /></a>
 <a href="https://www.linkedin.com/in/thezubairusman/"><img src="https://img.shields.io/badge/LINKEDIN-Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://medium.com/@thezubairusman"><img src="https://img.shields.io/badge/MEDIUM-Research_&_Writing-161616?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://medium.com/@thezubairusman"><img src="https://img.shields.io/badge/MEDIUM-Research_%26_Writing-161616?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="mailto:info@zus3cu.tech"><img src="https://img.shields.io/badge/EMAIL-Work_With_Me-0F5260?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
-**I find security weaknesses, engineer practical fixes, and build automation that scales.**
+**Offensive security. Production engineering. Trustworthy AI.**
 
-<sub>Application Security &nbsp; / &nbsp; Security Automation &nbsp; / &nbsp; Industrial AI</sub>
+<sub>Application Security &nbsp; / &nbsp; Python Automation &nbsp; / &nbsp; Industrial AI &amp; LLM Safety</sub>
 
 </div>
 
@@ -97,7 +97,23 @@ zubair@research:~$ cat mission.txt
 - **[VPN Production Platform](https://vpn.zus3c.info)** — OpenVPN/WireGuard automation, customer portal, lifecycle actions and diagnostics. *Python, Flask, nginx, Alibaba Cloud.*
 - **Enterprise ERP** *(delivered client project)* — RBAC, sales/purchase workflows, automated tests and production deployment. *Next.js, NestJS, Prisma, PostgreSQL, Redis, BullMQ.*
 
-## 04 / Research & responsible disclosure
+## 04 / Credentials & continuous learning
+
+<img src="assets/credentials-wall.svg" width="100%" alt="Cybersecurity and engineering certificates and course completions, 2020–2025" />
+
+The credentials below are drawn from my course and certificate documents. I distinguish **course completion or attendance** from independently certified professional qualifications.
+
+| Year | Credential / course | Issuing organization | Record |
+| :---: | :--- | :--- | :--- |
+| **2025** | Pentest Cyber Specialist Program | NITSEP | [Verify completion](https://portal.nitsep.pk/course-certificate/cda89fe363) |
+| **2023** | Kali Linux for Advanced Pen Testing and Ethical Hacking | LinkedIn Learning | Course completed, Sep 14 |
+| **2023** | Agile Testing | LinkedIn Learning | Course completed, Aug 28 |
+| **2022** | Certified Lean Six Sigma White Belt | BGMC | Certificate of achievement, Aug 16 |
+| **2020** | Certified Network Security Specialist (CNSS) course | International Cybersecurity Institute (ICSI) | Certificate of attendance, Aug 17 |
+
+<sub>The NITSEP course track covered CCNA, CEH, cybersecurity monitoring, wireless testing, penetration testing and bug bounty topics. These course modules are not represented here as separately awarded CCNA or CEH certifications. Full certificate copies are available upon appropriate request.</sub>
+
+## 05 / Research & responsible disclosure
 
 | Area | Work |
 | :--- | :--- |
@@ -108,7 +124,7 @@ zubair@research:~$ cat mission.txt
 
 <sub>Disclosures and client work are described only to the extent permitted by responsible-disclosure practices and confidentiality obligations.</sub>
 
-## 05 / My toolchain
+## 06 / My toolchain
 
 <div align="center">
 
@@ -116,7 +132,7 @@ zubair@research:~$ cat mission.txt
 
 </div>
 
-## 06 / Technical writing
+## 07 / Technical writing
 
 I write about the engineering decisions and security methods behind the work.
 
@@ -126,16 +142,9 @@ I write about the engineering decisions and security methods behind the work.
 - **Escaping Network Isolation: Zero-inbound SSH Access to a Private GPU Server** — secure remote infrastructure access; find it on [Medium](https://medium.com/@thezubairusman).
 
 <details>
-<summary><b>More about my background: certifications & GitHub stats</b></summary>
+<summary><b>View my GitHub activity</b></summary>
 
 <br/>
-
-| Certification | Issuer | Year |
-| :--- | :--- | :---: |
-| Certified Network Security Specialist (CNSS) | ICSI (UK) | 2020 |
-| Lean Six Sigma — White Belt | BGMC (England) | 2022 |
-| Kali Linux for Advanced Pen Testing | LinkedIn Learning | 2023 |
-| Agile Testing | LinkedIn Learning | 2023 |
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheZubairUsman&show_icons=true&hide_border=true&theme=transparent&title_color=00ddeb&icon_color=00ddeb&text_color=adbec8" alt="GitHub activity overview" height="155" />
