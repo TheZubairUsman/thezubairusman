@@ -142,6 +142,7 @@ I publish technical notes about security testing, practical engineering and buil
 
 [**Explore my work**](https://zus3cu.tech) · [**Request a project quote**](mailto:info@zus3cu.tech) · [**Connect on LinkedIn**](https://www.linkedin.com/in/thezubairusman/)
 
-<sub>Bridging cybersecurity and AI for Industry 4.0 · Built with curiosity and responsible engineering</sub>
+<sub>Bridging cybersecurity and AI for Industry 4.0</sub> 
+<h3>· Built with curiosity and responsible engineering</h3>
 
 </div>
