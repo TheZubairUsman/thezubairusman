@@ -1,109 +1,134 @@
 <div align="center">
 
-<img src="assets/cyber-hero.svg" alt="Zubair Usman — animated cybersecurity terminal portrait" width="100%" />
+<img src="assets/cyber-hero.svg" width="100%" alt="Zubair Usman — cybersecurity, AI and automation profile banner" />
 
 <br/>
 
-<a href="https://zus3cu.tech"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-zus3cu.tech-00D9E8?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-<a href="https://www.linkedin.com/in/thezubairusman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@thezubairusman"><img alt="Medium" src="https://img.shields.io/badge/MEDIUM-Writing-171717?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="mailto:info@zus3cu.tech"><img alt="Contact" src="https://img.shields.io/badge/EMAIL-Let's%20Talk-00AABF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://zus3cu.tech"><img src="https://img.shields.io/badge/PORTFOLIO-zus3cu.tech-00DDEB?style=flat-square&logo=googlechrome&logoColor=000000" alt="Portfolio: zus3cu.tech" /></a>
+<a href="https://www.linkedin.com/in/thezubairusman/"><img src="https://img.shields.io/badge/LINKEDIN-Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@thezubairusman"><img src="https://img.shields.io/badge/MEDIUM-Research_&_Writing-161616?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="mailto:info@zus3cu.tech"><img src="https://img.shields.io/badge/EMAIL-Work_With_Me-0F5260?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br/>
+<br/><br/>
 
-**Offensive security × practical AI × production automation**
+**I find security weaknesses, engineer practical fixes, and build automation that scales.**
 
-<sub>Ürümqi, China · MSc researcher at Xinjiang University · Originally from Pakistan</sub>
+<sub>Application Security &nbsp; / &nbsp; Security Automation &nbsp; / &nbsp; Industrial AI</sub>
 
 </div>
 
 ---
 
-### `> whoami`
+## 01 / The person behind the terminal
 
-I help teams **find security weaknesses before attackers do** and build the **automation and AI systems** that make their products more resilient.
+I'm **Zubair Usman**, an AI security researcher and penetration tester based in **Ürümqi, China**, where I'm pursuing an **MSc at Xinjiang University** focused on **industrial anomaly detection**.
 
-I'm an AI security researcher and penetration tester pursuing an MSc at **Xinjiang University**, with research focused on **industrial anomaly detection**. My work connects hands-on application security, software delivery and trustworthy AI for industrial and connected systems.
+I work at the intersection of **offensive security, production engineering, and applied AI**. My goal is to make security findings understandable, actionable, and useful to the people building real systems.
 
-```text
-$ cat focus.txt
-[01] Offensive Security   → Web/API security, auth flows, responsible disclosure
-[02] Security Automation → Python, DevSecOps, infrastructure and reporting
-[03] Applied AI          → Anomaly detection, explainability, LLM/RAG safety
+```console
+zubair@research:~$ cat mission.txt
+
+> Find the weakness before attackers do.
+> Automate what should never need to be done twice.
+> Make complex security and AI systems easier to trust.
 ```
 
-### `> expertise --active`
+## 02 / What I work on
 
 <table>
-<tr>
-<td width="33%" valign="top">
-
-**🛡️ Offensive Security**
-
-Application/API assessments, OAuth and authentication reviews, OWASP testing, reproducible CVSS-scored findings and remediation guidance.
-
-<sub>Burp Suite · ZAP · Nuclei · Nmap · ffuf · Amass · SQLMap</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**⚙️ DevSecOps & Automation**
-
-Python security tooling, CI/CD integration, VPN and infrastructure workflows, containers, operational diagnostics and report automation.
-
-<sub>Python · Docker · Linux · nginx · Flask · FastAPI</sub>
-
-</td>
-<td width="34%" valign="top">
-
-**🧠 Industrial AI & LLM Safety**
-
-Industrial anomaly detection, interpretable ML, RAG/LLM evaluation and prompt-injection defense.
-
-<sub>PyTorch · anomalib · scikit-learn · SHAP</sub>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 — Application Security</h3>
+      <p>Web and API penetration testing, authentication and OAuth analysis, OWASP assessments, reproducible CVSS-scored findings and remediation guidance.</p>
+      <sub>Burp Suite · OWASP ZAP · Nuclei · Nmap · Amass · ffuf · SQLMap</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 — Security Engineering</h3>
+      <p>Python automation, recon and OSINT workflows, security reporting, infrastructure hardening, VPN automation, CI/CD and containerized services.</p>
+      <sub>Python · Linux · Docker · FastAPI · Flask · nginx · GitHub Actions</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 — Industrial AI</h3>
+      <p>Anomaly detection, explainability and practical ML applied to connected and industrial systems.</p>
+      <sub>PyTorch · anomalib · scikit-learn · SHAP</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 — AI / LLM Security</h3>
+      <p>LLM and RAG evaluation, prompt-injection defense, secure integrations and reliable AI-assisted workflows.</p>
+      <sub>LLM evaluation · RAG · Python · AI security testing</sub>
+    </td>
+  </tr>
 </table>
 
-### `> ls featured-projects/`
+## 03 / Featured builds
 
-| Project | What it does | Technologies |
-| :--- | :--- | :--- |
-| **[MalwareGuard-AI](https://github.com/TheZubairUsman/MalwareGuard-AI)** | Static PE/ELF malware detection with explainable classifications and an API. | Python, FastAPI, scikit-learn, SHAP |
-| **[offsec-toolkit](https://github.com/TheZubairUsman/offsec-toolkit)** | Install/configuration toolkit for 300+ offensive-security utilities across 20+ categories. | Linux, security tooling, scripting |
-| **[BugDrillX](https://github.com/TheZubairUsman/BugDrillX)** | Structured bug-bounty learning and recon-to-testing roadmap. | Web security, methodology |
-| **[ssrf-cheatsheet-2025](https://github.com/TheZubairUsman/ssrf-cheatsheet-2025)** | Reference for modern server-side request forgery techniques. | Web/AppSec research |
-| **[Smart-Cursor-System-2.0](https://github.com/TheZubairUsman/Smart-Cursor-System-2.0)** | Accessible cursor control through facial gestures. | Python, computer vision |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TheZubairUsman/MalwareGuard-AI">MalwareGuard-AI ↗</a></h3>
+      <p>Explainable static malware classification using PE/ELF features, machine-learning models and an API.</p>
+      <sub><code>Python</code> <code>scikit-learn</code> <code>FastAPI</code> <code>SHAP</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TheZubairUsman/offsec-toolkit">offsec-toolkit ↗</a></h3>
+      <p>Automated installation and configuration for 300+ offensive-security tools across 20+ categories.</p>
+      <sub><code>Linux</code> <code>Security tooling</code> <code>Automation</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TheZubairUsman/BugDrillX">BugDrillX ↗</a></h3>
+      <p>A structured bug-bounty learning platform, from recon through web and mobile testing.</p>
+      <sub><code>AppSec</code> <code>Methodology</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TheZubairUsman/Smart-Cursor-System-2.0">Smart Cursor 2.0 ↗</a></h3>
+      <p>Accessibility-focused cursor control using facial gestures and computer vision.</p>
+      <sub><code>Python</code> <code>Computer vision</code></sub>
+    </td>
+  </tr>
+</table>
 
-<details>
-<summary><b>More production work ↗</b></summary>
-<br/>
+**Also worth exploring**
 
-- **[VPN Production Platform](https://vpn.zus3c.info)** — OpenVPN/WireGuard lifecycle automation and customer portal for provisioning, renewals, revocation and diagnostics. *Python · Flask · nginx · Alibaba Cloud*
-- **Enterprise ERP** *(client delivery)* — Sales/purchase workflows, RBAC, testing and production deployment. *Next.js · NestJS · Prisma · PostgreSQL · Redis · BullMQ*
+- **[ssrf-cheatsheet-2025](https://github.com/TheZubairUsman/ssrf-cheatsheet-2025)** — reference material for modern SSRF attack vectors.
+- **[VPN Production Platform](https://vpn.zus3c.info)** — OpenVPN/WireGuard automation, customer portal, lifecycle actions and diagnostics. *Python, Flask, nginx, Alibaba Cloud.*
+- **Enterprise ERP** *(delivered client project)* — RBAC, sales/purchase workflows, automated tests and production deployment. *Next.js, NestJS, Prisma, PostgreSQL, Redis, BullMQ.*
 
-</details>
+## 04 / Research & responsible disclosure
 
-### `> security-research --highlights`
+| Area | Work |
+| :--- | :--- |
+| **Web application security** | Responsibly disclosed a production e-commerce SQL injection with documented evidence and severity assessment (2024). |
+| **Identity & OAuth security** | Reported an OAuth 2.0 nonce-related issue to Windsurf (reported CVSS 7.1, 2025). |
+| **Security assurance** | OWASP-oriented testing and ISO 27001 gap analysis with reproducible, actionable reporting. |
+| **Industrial anomaly detection** | MSc research connecting applied ML, explainability and industrial/IIoT reliability. |
 
-- **2024 — SQL injection:** reported a critical issue in a production e-commerce platform with reproducible evidence and a CVSS-scored report.
-- **2025 — OAuth 2.0:** responsibly reported a nonce-related vulnerability to Windsurf (reported CVSS 7.1).
-- **Security assurance:** delivered OWASP-oriented assessments and ISO 27001 gap-analysis work with actionable documentation.
+<sub>Disclosures and client work are described only to the extent permitted by responsible-disclosure practices and confidentiality obligations.</sub>
 
-<sub>Research and disclosure details are shared within responsible-disclosure and client-confidentiality limits.</sub>
-
-### `> cat toolchain.md`
+## 05 / My toolchain
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,githubactions,fastapi,flask,postgres,redis,nginx,cloudflare,aws,pytorch,sklearn,typescript,nextjs&perline=9" alt="Selected technologies: Python, Bash, Linux, Docker, Git, GitHub, GitHub Actions, FastAPI, Flask, PostgreSQL, Redis, nginx, Cloudflare, AWS, PyTorch, scikit-learn, TypeScript and Next.js" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,githubactions,fastapi,flask,postgres,redis,nginx,cloudflare,pytorch,sklearn,typescript,nextjs&perline=9" alt="Tools and technologies: Python, Bash, Linux, Docker, Git, GitHub, GitHub Actions, FastAPI, Flask, PostgreSQL, Redis, nginx, Cloudflare, PyTorch, scikit-learn, TypeScript, Next.js" />
 
 </div>
 
-<sub>Security toolkit: Burp Suite · OWASP ZAP · Nuclei · Nmap · Amass · ffuf · SQLMap</sub>
+## 06 / Technical writing
 
-### `> certifications --list`
+I write about the engineering decisions and security methods behind the work.
+
+- **[Bug Bounty Methodology — Volume 2](https://medium.com/@thezubairusman/bug-bounty-methodology-volume-2-c6e89ae6875a)** — repeatable security testing practice.
+- **[Bug Hunting with GPT: Tips, Tricks, and Prompts](https://medium.com/@thezubairusman/bug-hunting-with-gpt-tips-tricks-and-prompts-3841ad93af17)** — AI-assisted security workflows.
+- **[Why 95% of Micro-SaaS Startups Fail — and How Solo Founders Can Win](https://medium.com/@thezubairusman/why-95-of-micro-saas-startups-fail-and-how-solo-founders-can-win-in-2025-a971594a9134)** — building and validating software products.
+- **Escaping Network Isolation: Zero-inbound SSH Access to a Private GPU Server** — secure remote infrastructure access; find it on [Medium](https://medium.com/@thezubairusman).
+
+<details>
+<summary><b>More about my background: certifications & GitHub stats</b></summary>
+
+<br/>
 
 | Certification | Issuer | Year |
 | :--- | :--- | :---: |
@@ -112,37 +137,28 @@ Industrial anomaly detection, interpretable ML, RAG/LLM evaluation and prompt-in
 | Kali Linux for Advanced Pen Testing | LinkedIn Learning | 2023 |
 | Agile Testing | LinkedIn Learning | 2023 |
 
-### `> tail -f research-notes.log`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheZubairUsman&show_icons=true&hide_border=true&theme=transparent&title_color=00ddeb&icon_color=00ddeb&text_color=adbec8" alt="GitHub activity overview" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZubairUsman&layout=compact&hide_border=true&theme=transparent&title_color=00ddeb&text_color=adbec8" alt="GitHub language summary" height="155" />
+</p>
 
-I publish technical notes about security testing, practical engineering and building software.
+<sub>GitHub statistic cards depend on a third-party service and may not always load.</sub>
 
-- **[Escaping Network Isolation: Zero-inbound SSH Access to a Private GPU Server](https://medium.com/@thezubairusman)** — private-server access and infrastructure engineering.
-- **[Bug Bounty Methodology (Volume 2)](https://medium.com/@thezubairusman/bug-bounty-methodology-volume-2-c6e89ae6875a)**
-- **[Bug Hunting with GPT: Tips, Tricks, and Prompts](https://medium.com/@thezubairusman/bug-hunting-with-gpt-tips-tricks-and-prompts-3841ad93af17)**
-- **[Why 95% of Micro-SaaS Startups Fail — and How Solo Founders Can Win](https://medium.com/@thezubairusman/why-95-of-micro-saas-startups-fail-and-how-solo-founders-can-win-in-2025-a971594a9134)**
-
-### `> git status --profile`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheZubairUsman&show_icons=true&hide_border=true&theme=transparent&title_color=00D9E8&icon_color=00D9E8&text_color=a6bbc2" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZubairUsman&layout=compact&hide_border=true&theme=transparent&title_color=00D9E8&text_color=a6bbc2" height="160" alt="Most used GitHub languages" />
-
-</div>
-
-<sub>Stats depend on the availability and rate limits of the external card service.</sub>
+</details>
 
 ---
 
 <div align="center">
 
-### `> let's build something secure`
+### Have something security-critical to build or test?
 
-**Security audit · Python automation · AI/LLM integration**
+I work with teams on **Web/API security assessments**, **Python automation**, and **applied AI & LLM security**.
 
-[**Explore my work**](https://zus3cu.tech) · [**Request a project quote**](mailto:info@zus3cu.tech) · [**Connect on LinkedIn**](https://www.linkedin.com/in/thezubairusman/)
+<a href="https://zus3cu.tech"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-00ddeb?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Explore portfolio" /></a>
+<a href="mailto:info@zus3cu.tech"><img src="https://img.shields.io/badge/START_A_CONVERSATION-112c37?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Zubair" /></a>
 
-<sub>Bridging cybersecurity and AI for Industry 4.0</sub> 
-<h3>· Built with curiosity and responsible engineering</h3>
+<br/><br/>
+
+<sub>Security first. Automation always. • [GitHub](https://github.com/TheZubairUsman) • [LinkedIn](https://www.linkedin.com/in/thezubairusman/) • [Medium](https://medium.com/@thezubairusman)</sub>
 
 </div>
