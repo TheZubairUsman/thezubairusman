@@ -10,7 +10,7 @@
   <a href="https://zus3c.info"><img src="https://img.shields.io/badge/Portfolio-zus3c.info-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/thezubairusman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@thezubairusman"><img src="https://img.shields.io/badge/Medium-Read-000000?style=flat-square&logo=medium&logoColor=white" /></a>
-  <a href="mailto:zus3cu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:info@zus3cu.tech"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/github/followers/TheZubairUsman?label=Follow&style=flat-square" />
 </p>
 
@@ -22,7 +22,7 @@ I'm a **China-based AI Security Researcher and Penetration Tester**, currently p
 
 I work across three areas: **application & API security testing**, **DevSecOps automation**, and **industrial AI / LLM safety**.
 
-> Responsible for a plant, an IIoT platform, or an early-stage product where security, uptime, and AI reliability affect the business? **Let's talk → [zus3cu@gmail.com](mailto:zus3cu@gmail.com)**
+> Responsible for a plant, an IIoT platform, or an early-stage product where security, uptime, and AI reliability affect the business? **Let's talk → [info@zus3cu.tech](mailto:info@zus3cu.tech) , [zus3cu@gmail.com](mailto:zus3cu@gmail.com)**
 
 ---
 
@@ -100,7 +100,7 @@ I take on fixed-scope, professional engagements for startups and businesses:
 - **Python Automation & Tooling** scraping, OSINT, security automation, internal tools
 - **AI / LLM Integration** RAG systems, LLM safety review, anomaly detection
 
-**Get a quote →** [zus3cu@gmail.com](mailto:zus3cu@gmail.com) · [Portfolio & services: zus3c.info](https://zus3c.info)
+**Get a quote →** [info@zus3cu.tech](mailto:info@zus3cu.tech) , [zus3cu@gmail.com](mailto:zus3cu@gmail.com) · [Portfolio & services: zus3c.info](https://zus3c.info)
 
 ---
 
@@ -112,7 +112,7 @@ I take on fixed-scope, professional engagements for startups and businesses:
 | GitHub | [github.com/TheZubairUsman](https://github.com/TheZubairUsman) |
 | LinkedIn | [linkedin.com/in/thezubairusman](https://www.linkedin.com/in/thezubairusman/) |
 | Medium | [medium.com/@thezubairusman](https://medium.com/@thezubairusman) |
-| Email | [zus3cu@gmail.com](mailto:zus3cu@gmail.com) |
+| Email | [info@zus3cu.tech](mailto:info@zus3cu.tech) , [zus3cu@gmail.com](mailto:zus3cu@gmail.com) |
 
 <sub>Based in Ürümqi, China (UTC+8) · Originally from Pakistan · Goal: bridge cybersecurity and AI for Industry 4.0</sub>
 
