@@ -99,19 +99,55 @@ zubair@research:~$ cat mission.txt
 
 ## 04 / Credentials & continuous learning
 
-<img src="assets/credentials-wall.svg" width="100%" alt="Cybersecurity and engineering certificates and course completions, 2020–2025" />
+<p align="center"><sub>Each card is independently clickable. Click a certificate card or its button to open the corresponding uploaded certificate.</sub></p>
 
-The credentials below are drawn from my course and certificate documents. I distinguish **course completion or attendance** from independently certified professional qualifications.
+<table>
+<tr>
+<td width="20%" align="center" valign="top">
+<a href="assets/certificates/cnss-icsi-2020.jpg" title="Open Network Security Specialist (CNSS) certificate"><img src="assets/credential-cards/cnss-icsi-2020.svg" alt="Network Security Specialist (CNSS) — ICSI, 2020" width="100%" /></a>
+<br/>
+<a href="assets/certificates/cnss-icsi-2020.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-00E5EE?style=flat-square&amp;labelColor=091c23" alt="View Network Security Specialist (CNSS) certificate" /></a>
+</td>
+<td width="20%" align="center" valign="top">
+<a href="assets/certificates/lean-six-sigma-bgmc-2022.jpg" title="Open Lean Six Sigma White Belt certificate"><img src="assets/credential-cards/lean-six-sigma-bgmc-2022.svg" alt="Lean Six Sigma White Belt — BGMC, 2022" width="100%" /></a>
+<br/>
+<a href="assets/certificates/lean-six-sigma-bgmc-2022.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-7EF7D4?style=flat-square&amp;labelColor=091c23" alt="View Lean Six Sigma White Belt certificate" /></a>
+</td>
+<td width="20%" align="center" valign="top">
+<a href="assets/certificates/agile-testing-linkedin-2023.jpg" title="Open Agile Testing certificate"><img src="assets/credential-cards/agile-testing-linkedin-2023.svg" alt="Agile Testing — LinkedIn Learning, 2023" width="100%" /></a>
+<br/>
+<a href="assets/certificates/agile-testing-linkedin-2023.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-00E5EE?style=flat-square&amp;labelColor=091c23" alt="View Agile Testing certificate" /></a>
+</td>
+<td width="20%" align="center" valign="top">
+<a href="assets/certificates/kali-pentesting-linkedin-2023.jpg" title="Open Kali Linux for Advanced Pen Testing and Ethical Hacking certificate"><img src="assets/credential-cards/kali-pentesting-linkedin-2023.svg" alt="Kali Linux for Advanced Pen Testing and Ethical Hacking — LinkedIn Learning, 2023" width="100%" /></a>
+<br/>
+<a href="assets/certificates/kali-pentesting-linkedin-2023.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-7EF7D4?style=flat-square&amp;labelColor=091c23" alt="View Kali Linux for Advanced Pen Testing and Ethical Hacking certificate" /></a>
+</td>
+<td width="20%" align="center" valign="top">
+<a href="assets/certificates/pentest-cyber-specialist-nitsep-2025.jpg" title="Open Pentest Cyber Specialist Program certificate"><img src="assets/credential-cards/pentest-cyber-specialist-nitsep-2025.svg" alt="Pentest Cyber Specialist Program — NITSEP, 2025" width="100%" /></a>
+<br/>
+<a href="assets/certificates/pentest-cyber-specialist-nitsep-2025.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-00E5EE?style=flat-square&amp;labelColor=091c23" alt="View Pentest Cyber Specialist Program certificate" /></a>
+</td>
+</tr>
+</table>
 
-| Year | Credential / course | Issuing organization | Record |
+<details>
+<summary><b>Certificate details & verification</b></summary>
+<br/>
+
+| Year | Certificate / course | Provider | Evidence |
 | :---: | :--- | :--- | :--- |
-| **2025** | Pentest Cyber Specialist Program | NITSEP | Course completed, Jan 21 |
-| **2023** | Kali Linux for Advanced Pen Testing and Ethical Hacking | LinkedIn Learning | Course completed, Sep 14 |
-| **2023** | Agile Testing | LinkedIn Learning | Course completed, Aug 28 |
-| **2022** | Certified Lean Six Sigma White Belt | BGMC | Certificate of achievement, Aug 16 |
-| **2020** | Certified Network Security Specialist (CNSS) course | International Cybersecurity Institute (ICSI) | Certificate of attendance, Aug 17 |
+| **2020** | [Network Security Specialist (CNSS)](assets/certificates/cnss-icsi-2020.jpg) | ICSI | Course attendance |
+| **2022** | [Lean Six Sigma White Belt](assets/certificates/lean-six-sigma-bgmc-2022.jpg) | BGMC | Certificate of achievement |
+| **2023** | [Agile Testing](assets/certificates/agile-testing-linkedin-2023.jpg) | LinkedIn Learning | Course completion |
+| **2023** | [Kali Linux for Advanced Pen Testing and Ethical Hacking](assets/certificates/kali-pentesting-linkedin-2023.jpg) | LinkedIn Learning | Course completion |
+| **2025** | [Pentest Cyber Specialist Program](assets/certificates/pentest-cyber-specialist-nitsep-2025.jpg) | NITSEP | Course completion |
 
-<sub>The NITSEP course track covered CCNA, CEH, cybersecurity monitoring, wireless testing, penetration testing and bug bounty topics. These course modules are not represented here as separately awarded CCNA or CEH certifications. Full certificate copies are available upon appropriate request.</sub>
+- [Verify the NITSEP Pentest Cyber Specialist Program certificate](https://portal.nitsep.pk/course-certificate/cda89fe363)
+
+<sub>CNSS is documented as a certificate of attendance. Other course completions should not be construed as separately earned CCNA, CEH, or similar examinations.</sub>
+
+</details>
 
 ## 05 / Research & responsible disclosure
 
