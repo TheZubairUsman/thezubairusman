@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cyber-hero.svg" width="100%" alt="Zubair Usman — cybersecurity, AI and automation profile banner" />
+<img src="assets/cyber-hero-sharp.svg" width="100%" alt="Zubair Usman — cybersecurity, AI and automation profile banner" />
 
 <br/>
 
