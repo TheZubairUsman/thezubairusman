@@ -105,7 +105,7 @@ The credentials below are drawn from my course and certificate documents. I dist
 
 | Year | Credential / course | Issuing organization | Record |
 | :---: | :--- | :--- | :--- |
-| **2025** | Pentest Cyber Specialist Program | NITSEP | [Verify completion](https://portal.nitsep.pk/course-certificate/cda89fe363) |
+| **2025** | Pentest Cyber Specialist Program | NITSEP | Course completed, Jan 21 |
 | **2023** | Kali Linux for Advanced Pen Testing and Ethical Hacking | LinkedIn Learning | Course completed, Sep 14 |
 | **2023** | Agile Testing | LinkedIn Learning | Course completed, Aug 28 |
 | **2022** | Certified Lean Six Sigma White Belt | BGMC | Certificate of achievement, Aug 16 |
